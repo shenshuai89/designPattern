@@ -19,4 +19,9 @@ class Factory{
     }
 }
 
-export default Factory
+/* ----工厂模式---- */
+console.log("---工厂模式测试---");
+let F = new Factory()
+let pro = F.create('pro1')
+pro.init()
+pro.fun1()

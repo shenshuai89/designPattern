@@ -1,4 +1,5 @@
 import { readonly } from 'core-decorators'
+// 还有deprecate装饰方法的使用
 
 class Person{
     @readonly

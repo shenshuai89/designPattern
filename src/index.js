@@ -5,6 +5,8 @@
 // import adaptee from './adaptee'
 // import decorator from './decorator'
 // import decoratorbabel from './decorator-babel'
-import log from './log'
-import coreDecorator from './coreDecorator'
+// import log from './log'
+// import coreDecorator from './coreDecorator'
+import proxy from './proxy'
+import observer from './observer'
 

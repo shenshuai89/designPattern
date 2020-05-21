@@ -7,6 +7,9 @@
 // import decoratorbabel from './decorator-babel'
 // import log from './log'
 // import coreDecorator from './coreDecorator'
-import proxy from './proxy'
-import observer from './observer'
+// import proxy from './proxy'
+// import observer from './observer'
+import iterator from './iterator'
+import each from './each'
+import light from './light'
 
